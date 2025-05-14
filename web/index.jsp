@@ -17,7 +17,7 @@
             <div class="user d-flex justify-content-center">
                 <img src="recursos/img/anonymous-hidden-incognito-icon-blue-color-design-anonymous-hidden-incognito-icon-vector-eps-file-perfect-use-print-media-web-250842657.jpg" width="200" height="200" alt="alt"/>
             </div>
-            <form action="action">
+            <form action="login" method="post">
                 <div class="mb-3">
                     <label for="email" class="form-label">Email:</label>
                     <input type="email" class="form-control" id="email" name="email" placeholder="name@example.com">
